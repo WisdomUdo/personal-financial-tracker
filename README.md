@@ -2,7 +2,7 @@
 
 A responsive web application to manage your income and expenses with a live chart, data filtering, and dark/light mode toggle. Built using **HTML**, **CSS**, **JavaScript**, and **Chart.js**.
 
-![screenshot](./screenshot-light.png)  
+![screenshot](ima/https://github.com/WisdomUdo/personal-financial-tracker/blob/main/img/dark_theme.png)  
 *Light mode interface*
 
 ![screenshot](./screenshot-dark.png)  
